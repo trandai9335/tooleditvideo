@@ -1,0 +1,6 @@
+{
+  "name": "Tool Edit By Đại Một Cú",
+  "description": "A powerful full-stack online batch video editor that lets you queue, process, overlay, style, and edit multiple videos simultaneously using custom parameters and layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
